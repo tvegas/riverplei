@@ -1,1 +1,6 @@
-{"Adquisitivo":2613}
+{
+  "Adquisitivo": {"Adquisitivo":1},
+  "profile": {
+    "name": "typicode"
+  }
+}
